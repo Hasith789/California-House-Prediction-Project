@@ -70,4 +70,5 @@ An interactive Power BI dashboard was created for visual storytelling and busine
 
 * Clustering Analysis:
 - Use K-Means or DBSCAN to segment neighborhoods/regions into distinct housing markets based on price, density, and proximity factors.
+  
 
